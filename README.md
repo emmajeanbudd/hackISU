@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
 A PhoneGap Hello World template
@@ -67,3 +68,6 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 [cordova-plugin-whitelist]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist
 [cordova-plugin-whitelist-csp]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist#content-security-policy
 [csp-is-awesome]: http://cspisawesome.com
+=======
+# hackISU
+>>>>>>> bf295e4baaaeecd7c4d564b3e5a3a60e392d6c45
